@@ -1,9 +1,10 @@
+<!DOCTYPE html>
 # Overwatch
-How to be a genji main ( I need healing! ).
 <html>
+<body>
+How to be a genji main ( I need healing! ).
 
-<h1> Здарова хлопцы! </h1>
-  
+Здарова хлопцы!
 Начнем со способностей нашего персонажа. 
 
 <img src="http://rugames-online.ru/wp-content/uploads/2016/05/overwatch-genji.png" alt="Ощибка"> 
