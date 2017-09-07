@@ -12,7 +12,7 @@ How to be a genji main ( I need healing! ).
   <li> Рывок <tt> SHIFT </tt>
   <li> Отражение Атак <tt> E </tt>
   <li> Сюрикены ( прямо ) <tt> ЛКМ </tt>
-  <li> Сюрикены ( веер )  <tt> ПКМ </tt>
-    
+  <li> Сюрикены ( веером )  <tt> ПКМ </tt>
+ </ol>   
 </body>
 </html>
