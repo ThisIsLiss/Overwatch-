@@ -4,7 +4,7 @@
 <body>
 How to be a genji main ( I need healing! ).
 
-Здарова хлопцы!(Назар л0х)
+Здарова хлопцы!(<a href="https://vk.com/nabish">Назар</a> л0х)
 Начнем со способностей нашего персонажа. 
 
 <img src="http://rugames-online.ru/wp-content/uploads/2016/05/overwatch-genji.png" alt="Ощибка"> 
