@@ -14,6 +14,6 @@ How to be a genji main ( I need healing! ).
   <li> Отражение Атак <tt> E </tt>
   <li> Сюрикены ( прямо ) <tt> ЛКМ </tt>
   <li> Сюрикены ( веером )  <tt> ПКМ </tt>
- </ol>   
+</ol>   
 </body>
 </html>
